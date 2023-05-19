@@ -1,6 +1,6 @@
 a novel approach that combines RGB and hyperspectral imaging (HSI) modalities using a multimodal convolutional neural network (CNN) to improve the accuracy and robustness of cancer detection. Our method leverages the complementary information provided by both modalities and addresses the challenge of HSI availability by training a generative adversarial network (GAN) to reconstruct HSI from RGB images when HSI data is unavailable. 
 
-Experiment 1: RGB Image Classification of Cancer Cells Using CNN Model In this experiment, the model architecture employed transfer learning, leveraging the pre-trained InceptionV3 model as the base model. 
+'Experiment 1:' RGB Image Classification of Cancer Cells Using CNN Model In this experiment, the model architecture employed transfer learning, leveraging the pre-trained InceptionV3 model as the base model. 
 
 
 Experiment 2: Hyperspectral Image Classification of Cancer Cells Using CNN Model
